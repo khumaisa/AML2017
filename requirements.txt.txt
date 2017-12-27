@@ -1,0 +1,5 @@
+librosa>=0.5.0
+tensorflow>=1.0.0
+magenta
+scikit_learn>=0.19.1
+pydub=0.18.0
